@@ -1,0 +1,29 @@
+body {
+  width: 500px;
+  max-height: 800px;
+}
+div.text_input_history {
+  padding: 10px 0;
+  overflow: scroll;
+}
+
+div.text_input_history ul li:hover {
+  background-color: lightblue;
+}
+
+div.text_input_history ul li.list-group-item {
+  padding: 10px 10px;
+}
+
+textarea.text-input-item {
+  width: 100%;
+  height: 100px;
+  resize: none;
+}
+
+#temp_textarea_for_copy {
+  display: none;
+  resize: none;
+  width: 0;
+  height: 0;
+}
