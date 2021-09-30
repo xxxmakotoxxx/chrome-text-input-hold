@@ -1,5 +1,5 @@
 # Google Chrome Extension
-申請中
+https://chrome.google.com/webstore/detail/text-input-hold/bdagfcaikpdldhipagllinbjdaekaian?hl=ja&authuser=1
 
 # chrome-text-input-hold
 ブラウザ上でテキストまたはテキストエリアに入力した文章の履歴を保持し、履歴からコピーを可能とする
